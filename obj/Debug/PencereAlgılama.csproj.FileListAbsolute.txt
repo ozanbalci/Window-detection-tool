@@ -1,0 +1,11 @@
+C:\Users\Ozan Balcı\Desktop\PencereAlgılama\bin\Debug\PencereAlgılama.exe.config
+C:\Users\Ozan Balcı\Desktop\PencereAlgılama\bin\Debug\PencereAlgılama.exe
+C:\Users\Ozan Balcı\Desktop\PencereAlgılama\bin\Debug\PencereAlgılama.pdb
+C:\Users\Ozan Balcı\Desktop\PencereAlgılama\obj\Debug\PencereAlgılama.csproj.AssemblyReference.cache
+C:\Users\Ozan Balcı\Desktop\PencereAlgılama\obj\Debug\PencereAlgılama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ozan Balcı\Desktop\PencereAlgılama\obj\Debug\PencereAlgılama.Form1.resources
+C:\Users\Ozan Balcı\Desktop\PencereAlgılama\obj\Debug\PencereAlgılama.Properties.Resources.resources
+C:\Users\Ozan Balcı\Desktop\PencereAlgılama\obj\Debug\PencereAlgılama.csproj.GenerateResource.cache
+C:\Users\Ozan Balcı\Desktop\PencereAlgılama\obj\Debug\PencereAlgılama.csproj.CoreCompileInputs.cache
+C:\Users\Ozan Balcı\Desktop\PencereAlgılama\obj\Debug\PencereAlgılama.exe
+C:\Users\Ozan Balcı\Desktop\PencereAlgılama\obj\Debug\PencereAlgılama.pdb
